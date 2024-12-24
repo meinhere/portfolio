@@ -6,7 +6,7 @@ import ReactLogo from "../assets/React.png";
 import Tailwind from "../assets/Tailwind Css.png";
 import Bootstrap from "../assets/Bootstrap.png";
 import NodeLogo from "../assets/NodeLogo.png";
-import Mysql from "../assets/Mysql.png";
+import Mysql from "../assets/MySql.png";
 import Postgre from "../assets/Postgre.png";
 import Firebase from "../assets/Firebase.png";
 import Express from "../assets/Express.png";
