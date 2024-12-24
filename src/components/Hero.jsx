@@ -1,7 +1,7 @@
 import React from "react";
 import hero from "../assets/Hero.png";
 import reactLogo from "../assets/React.png";
-import tailwind from "../assets/Tailwind Css.png";
+import tailwind from "../assets/Tailwind.png";
 import logoLinks from "./LogoLinks";
 import { motion } from "framer-motion";
 import CV from "../assets/cv/CV_Sabil_Ahmad_Hidayat.pdf";
