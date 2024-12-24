@@ -3,7 +3,7 @@ import React from "react";
 // import Css from "../assets/CSS.png";
 import Javascript from "../assets/JS.png";
 import ReactLogo from "../assets/React.png";
-import Tailwind from "../assets/Tailwind Css.png";
+import Tailwind from "../assets/Tailwind.png";
 import Bootstrap from "../assets/Bootstrap.png";
 import NodeLogo from "../assets/NodeLogo.png";
 import Mysql from "../assets/MySql.png";
